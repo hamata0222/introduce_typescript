@@ -8,5 +8,6 @@ let c = {
 };
 let d = c.apple + 4;
 
+// let fushigi = [3] + 1; /* TypeScriptだとエラーになる */
 let fushigi = 3 + 1;
 console.log(`${fushigi}`);

@@ -1,4 +1,7 @@
 // paizaの問題で練習
+
+const { getSystemErrorMap } = require('util');
+
 // https://paiza.jp/challenges/571/retry_result/f4561a7285a5861056f678379095bda6
 process.stdin.resume();
 process.stdin.setEncoding('utf8');
